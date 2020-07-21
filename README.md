@@ -1,7 +1,7 @@
 ## :woman_technologist: Alexandrine Ribeiro
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nymalone)](https://github.com/AlexandrineRibeiro)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrine-ribeiro/)](https://www.linkedin.com/in/nykollemalone/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrine-ribeiro/)](https://www.linkedin.com/in/alexandrine-ribeiro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandrine_ribeiro@hotmail.com)](mailto:alexandrine_ribeiro@hotmail.com)
 
 
