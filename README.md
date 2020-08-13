@@ -5,6 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandrine_ribeiro@hotmail.com)](mailto:alexandrine_ribeiro@hotmail.com)
 
 
+My Repositorires:
+- [DCASE-2020-Task-2](https://github.com/AlexandrineRibeiro/DCASE-2020-Task-2): Participation on DCase challenge 2020 -Task 2
+- [first-project](https://github.com/AlexandrineRibeiro/first-project): My first project on Kaggle.
+
 
 <!--
 - :woman_technologist: **Fullstack** web developer. **Front-end** passionate.
