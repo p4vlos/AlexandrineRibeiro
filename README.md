@@ -1,13 +1,17 @@
-## :woman_technologist: Alexandrine Ribeiro
+## Hi, I'm Alexandrine  :woman_technologist: 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nymalone)](https://github.com/AlexandrineRibeiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrine-ribeiro/)](https://www.linkedin.com/in/alexandrine-ribeiro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandrine_ribeiro@hotmail.com)](mailto:alexandrine_ribeiro@hotmail.com)
-
+ 
+:books: Master in Biomedical Engineering, Medical Eletronics from University of minho, Portugal (batch of 2019).
 
 My Repositorires:
 - [DCASE-2020-Task-2](https://github.com/AlexandrineRibeiro/DCASE-2020-Task-2): Participation on DCase challenge 2020 -Task 2
 - [first-project](https://github.com/AlexandrineRibeiro/first-project): My first project on Kaggle.
+
+I'm a young professional who is passionate about Data Science technologies and its entire ecosystem.
+ 
 
 
 <!--
