@@ -9,7 +9,7 @@
 ##### :books: Master in Biomedical Engineering, Medical Eletronics from University of minho, Portugal (batch of 2019).
 ##### :pushpin: I'm a young professional who is passionate about Data Science technologies and its entire ecosystem.
 
-
+&nbsp;
 
 
 My Repositorires:
