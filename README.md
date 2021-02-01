@@ -16,7 +16,11 @@ My Repositorires:
 - [DCASE-2020-Task-2](https://github.com/AlexandrineRibeiro/DCASE-2020-Task-2): Participation on DCase challenge 2020 -Task 2
 - [first-project](https://github.com/AlexandrineRibeiro/first-project): My first project on Kaggle.
 
+&nbsp;
 
+![Alexandrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrineRibeiro&show_icons=true)
+<!--
+![Alexandrine's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexandrineRibeiro&layput=compact&langs_count=5)
  
 
 
