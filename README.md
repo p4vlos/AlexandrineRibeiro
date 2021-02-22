@@ -16,6 +16,9 @@ My Repositorires:
 - [DCASE-2020-Task-2](https://github.com/AlexandrineRibeiro/DCASE-2020-Task-2): Participation on DCase challenge 2020 -Task 2
 - [first-project](https://github.com/AlexandrineRibeiro/first-project): My first project on Kaggle.
 
+My Scientific Papers:
+- [Google Scholar Profile](https://scholar.google.pt/citations?user=_VdcEbgAAAAJ&hl=pt-PT&oi=ao)
+
 &nbsp;
 
 ![Alexandrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrineRibeiro&show_icons=true)
