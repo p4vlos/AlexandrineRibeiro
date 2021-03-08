@@ -6,8 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandrine_ribeiro@hotmail.com)](mailto:alexandrine_ribeiro@hotmail.com)
  
 
-##### :books: Master in Biomedical Engineering, Medical Eletronics from University of minho, Portugal (batch of 2019).
-##### :pushpin: I'm a young professional who is passionate about Data Science technologies and its entire ecosystem.
+#### :books: Master in Biomedical Engineering, Medical Eletronics from University of minho, Portugal (batch of 2019).
+#### :pushpin: I'm a young professional who is passionate about Data Science technologies and its entire ecosystem.
 
 &nbsp;
 
