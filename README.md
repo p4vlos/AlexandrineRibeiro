@@ -17,6 +17,7 @@ About me:
 My Repositorires:
 - [DCASE-2020-Task-2](https://github.com/AlexandrineRibeiro/DCASE-2020-Task-2): Participation on DCase challenge 2020 -Task 2
 - [first-project](https://github.com/AlexandrineRibeiro/first-project): My first project on Kaggle.
+- [mosquitopp_client](https://github.com/AlexandrineRibeiro/mosquitopp_client): C++ MQTT mosquitto client example
 
 &nbsp;
 
