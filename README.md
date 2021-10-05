@@ -11,6 +11,8 @@ About me:
 
 :pushpin: I'm a young professional who is passionate about Data Science technologies and its entire ecosystem.
 
+:heart: Computer Vision with OpenCV and Deep Learning
+
 &nbsp;
 
 
